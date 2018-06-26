@@ -6,4 +6,4 @@ By Raghda Al-Ajely
 * JavaScript
 
 # Screenshot
-![alt Screenshot](https://github.com/raaghda/todo-list-js/blob/master/images/screenshot-to-do-list-js.png | width=200)
+![alt Screenshot]("https://github.com/raaghda/todo-list-js/blob/master/images/screenshot-to-do-list-js.png" width="200")
